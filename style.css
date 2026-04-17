@@ -117,9 +117,10 @@ h2 {
   padding: 6px 14px;
   border: 1px solid #00e5ff;
   border-radius: 20px;
+  text-decoration: none;
+  color: #00e5ff;   /* FIXED COLOR */
   transition: 0.3s;
 }
-
 .project a:hover {
   background: #00e5ff;
   color: #000;
